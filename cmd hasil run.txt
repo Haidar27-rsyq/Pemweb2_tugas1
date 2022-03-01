@@ -1,0 +1,18 @@
+Microsoft Windows [Version 10.0.19042.1415]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ACER>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>cd pw2
+
+C:\xampp\htdocs\pw2>php tugas1.php
+Nama Lengkap : Muhammad Haidar rasiq
+Nim : 20090087
+Kelas : 4D
+C:\xampp\htdocs\pw2>
